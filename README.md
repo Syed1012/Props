@@ -8,6 +8,7 @@
 
 # concept 2 -- PropsTypes
 
+- First and very important thing is that you should import the PropTypes from 'prop-types';
 - Can be used to specify which datatype a prop should be 
 - If given a prop as string then it will give error if provided any other datatype rather than the defined datatype.
 - For more details of this concept visit the Student.jsx component file there you will find.
